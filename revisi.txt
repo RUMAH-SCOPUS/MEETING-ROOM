@@ -1,0 +1,14 @@
+tampilkan kapasitas per tempat meeting room
+gambar
+nama joglo meeting room
+kapasitas
+button pesan sekarang 
+
+lalu mengarah ke full board atau full day 
+full board 1 hari 1 malam
+2x coffe break 
+3x makan
+penginapan
+
+full day 
+2x coffe break 
